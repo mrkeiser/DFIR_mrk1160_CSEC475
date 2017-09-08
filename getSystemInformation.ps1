@@ -166,5 +166,5 @@ function find_fax{ # one of my own 2/3
 # list the images in the Pictures folder on the computer
 #function list_images{ # one of my own 3/3
 
-}
+#}
 #| Export-Csv c:\powershellOutput.txt
