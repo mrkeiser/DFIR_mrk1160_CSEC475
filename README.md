@@ -1,7 +1,6 @@
 # DFIR_mrk1160_CSEC475
-Morgan Keiser 
+Morgan Keiser  
 Windows Forensics Repository
-
 1. Lab 1
 * GetSystemInformation.ps1 --Powershell script for getting system information
 2. Lab 2
